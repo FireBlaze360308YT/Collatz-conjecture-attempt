@@ -1,0 +1,6 @@
+The file main.py contains the program to test the collatz conjecture for a given number varying the power. U can set the function u want,
+u can set the number u wawnt to try and u can set the starting power.
+The script in a loop will count the number of steps it takes for the number set to reappear in the sequence, after that it clears the counter and increases the power by one.
+The script is infinite but when stopped it will output a csv file with the data.
+
+the daje.py file is just a script to test the amount of steps a numbers takes to fall to 1 at any power.
