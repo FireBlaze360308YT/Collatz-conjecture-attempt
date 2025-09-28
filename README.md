@@ -24,7 +24,7 @@ The rules:
   1) if even: h(n/2^k)
   2) if odd: n3^k + 1
 
-  Statement: the collatz conjecture will hold for every integer k in range [1, +inf) with a given rounding function n that round up or down in a predictable way.
+  Statement: the collatz conjecture will hold for every integer k in range [1, +inf) with a given rounding function h that rounds up or down in a predictable way.
   I have just expressed this conjecture, i havent proved it, i have tried calculating some paths of numbers with different h functions. I think that there is actually     something to discover here. 
 
 I dont know if anybody has thought about this before, im not trying to take any credits in that case, im just trying to explain something i thoght about. :)
