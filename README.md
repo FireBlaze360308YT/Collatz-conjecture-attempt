@@ -81,9 +81,7 @@ But I think there’s actually something interesting to discover here.
 This repository contains:
 
 - Simple **Python scripts** where I experiment with different values of `k` and `h`
-- **Charts** showing how the modified Collatz paths behave
-- Notes and results from my tests and thoughts
-
+  
 Feel free to explore the code, try different functions, or suggest improvements!  
 I’m not claiming this is original research — I just wanted to follow my curiosity and share what I found interesting. :)
 
